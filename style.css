@@ -7,6 +7,125 @@ Top:
 Left:
 -706px;
 }
-.borden {
-    background-color: bisque;
+.kuuurvaaa {
+    position: absolute;
+    width: 1440px;
+    height: 144px;
+    
+    background: #13072E;
 }
+.pon {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    
+    color: #ACACAC;
+}
+.tylen {
+    /* магазин */
+
+
+position: absolute;
+width: 113px;
+height: 35px;
+margin-left: 250px;
+margin-top: -50px;
+font-family:'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+color: #ACACAC;
+
+}
+.kurva {
+    /* продажа */
+
+
+position: absolute;
+width: 124px;
+height: 35px;
+margin-left: 370px;
+margin-top: -50px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #ACACAC;
+
+}
+.kapibara {
+    /* аукціон */
+
+
+position: absolute;
+width: 104px;
+height: 35px;
+margin-left: 495px;
+margin-top: -50px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #ACACAC;
+}
+.pomidor {
+    /* преміум */
+
+
+position: absolute;
+width: 116px;
+height: 35px;
+margin-left: 605px;
+margin-top: -50px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #ACACAC;
+
+}
+.ukr {
+    position: absolute;
+width: 61.07px;
+height: 59px;
+margin-left: 1000px;
+margin-top: 10px;
+background: url(image.png);
+
+}
+.pon2 {
+    position: absolute;
+width: 93px;
+height: 32px;
+margin-left: 1195px;
+margin-top: -50px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #ACACAC;
+}
+.pon3 {
+    /* steam-svgrepo-com 1 */
+
+    margin-left: 1205px;
+    margin-top: 10px;
+position: absolute;
+width: 58px;
+height: 58px;
+
+}    
