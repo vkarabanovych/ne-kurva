@@ -12,11 +12,12 @@ header {
   background: #020509;
 }
 .logo {
-font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 900;
 font-size: 16px;
 line-height: 102.6%;
+
 
 
 letter-spacing: 8px;
@@ -77,28 +78,23 @@ border-radius: 4px
 .pon1 {
   height: 359px;
   flex-direction: column;
-  padding-top: 85px;
   background: rgba(0, 207, 250, 0.05);
 }
-.titlepon1 {
-  font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 32px;
-line-height: 38px;
-text-align: center;
+.down {
+  position: absolute;
+width: 88%;
+height: 250px;
+left: 0px;
+top: 1059px;
+padding-left: 10px;
+padding-top: 70px;
+padding-right: 190px;
+display: flex;
+justify-content: space-around;
 
-
-color: #020509;
+background: #020509;
 }
-.nottitlepon1 {
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-width: 540px;
-padding-left: 690px;
-padding-top: 180px;
-
-color: #727272;
-
+.videocard {
+  width: 80px;
 }
+
