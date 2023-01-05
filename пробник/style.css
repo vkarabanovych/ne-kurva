@@ -73,13 +73,13 @@ margin-bottom: 45px;
   cursor: pointer;
   outline: none;
   color: #fff;
-  background-color: #20d6ee;
+  background-color: #8e9713;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: #2900df}
+.button:hover {background-color: #ffef09}
 
 .button:active {
   background-color: #0084ff;
